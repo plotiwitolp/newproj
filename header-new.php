@@ -10,7 +10,7 @@
 </head>
 
 <body>
-    <header class="header">
+    <header class="header header-new">
         <div class="logo">
             <?php
             $logo_img = '';
